@@ -15,8 +15,7 @@ Please generate a summary of the content on this page in no more than 5 bullet p
 
 ```plaintext 
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJHTzBmeFhuaHNQZEVZOTM1djhEMXJkUjJMd3xBQ3Jtc0trdm1PUFd0aUpkRko4MTluaUlIM3V2NlBKU2R2SkFMZkVoSjNESktCTzhmbGk2YTFzRGxrX0ZFdVZwbWxEVG1ySWkwWVl0RHlXeUtfN3FHNUtodlpOWTZDc1UteFFLc3VjNlFFbWlSMmpCbWhIOHZ1Zw&q=https%3A%2F%2Fntn.so%2FCPTSDashboard&v=3D6gaawXwfk
-
-
+```
 
 ## Explain More
 
